@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on William Harmer Blog</title>
+    <link>http://willjharmer.github.io/about/</link>
+    <description>Recent content in Abouts on William Harmer Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Sat, 20 Jun 2015 14:02:37 +0200</lastBuildDate>
+    <atom:link href="http://willjharmer.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://willjharmer.github.io/about/</link>
+      <pubDate>Sat, 20 Jun 2015 14:02:37 +0200</pubDate>
+      
+      <guid>http://willjharmer.github.io/about/</guid>
+      <description>&lt;p&gt;A Data Scientist with software engineering experience building automated and production grade data products in an agile delivery environment. Studious in Data Science, continually expanding the depth and breadth of my problem solving skills as well as learning to apply open source technologies to deliver insight in short and frequent iterations. Experience instructing a range of audiences in leading edge Data Science practices.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
